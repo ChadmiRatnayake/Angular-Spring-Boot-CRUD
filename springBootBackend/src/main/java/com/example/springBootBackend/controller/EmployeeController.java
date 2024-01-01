@@ -22,5 +22,5 @@ public class EmployeeController {
         return employeeRepository.findAll();
     }
 
-    
+
 }
